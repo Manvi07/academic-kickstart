@@ -62,6 +62,8 @@ social:
   link: files/cv.pdf 
 
 ---
-I am a pre-final year undergraduate student at IIT Mandi, majoring in Computer Science. My research interests include Deep Learning and Mathematical Computer Science. I am the founder chairperson of ACM-Women Chapter IIT Mandi, that constantly works towards women upliftment in the field of technology. I have completed my winter-semester 2019-2020 at RWTH Aachen University Germany, where I got a chance to indulge in Masters-level courses & research projects.
+I am a final year undergraduate student at IIT Mandi, majoring in Computer Science. My research interests include Deep Learning and Mathematical Computer Science. I am the founder chairperson of ACM-Women Chapter IIT Mandi, that constantly works towards women upliftment in the field of technology. I have completed my winter-semester 2019-2020 at RWTH Aachen University Germany, where I got a chance to indulge in Masters-level courses & research projects.
 
-My other hobbies include reading & travelling. I have always been fascinated by the advancements shaping our future and believe that the only attitude that keeps one going is to never stop learning!
+Currently, I am working with <a href="https://scholar.google.co.in/citations?user=qZkww5oAAAAJ&hl=en" target=_blank>Dr. Samar Agnihotri</a> on my final year Major Technical Project, which is on <b>Mutual Information Estimation in Deep Neural Networks</b>.
+
+My other hobbies include reading, writing & travelling. I have always been fascinated by the advancements shaping our future and believe that the only attitude that keeps one going is to never stop learning!
