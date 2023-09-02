@@ -9,6 +9,9 @@ date: "2020-10-06T00:00:00Z"
 external_link: https://github.com/Manvi07/SATSolver
 
 image:
-  caption: Credits [Wikipedia](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#/media/File:Sat_reduced_to_Clique_from_Sipser.svg)
+  caption: Credits [Wikipedia](https://en.wikipedia.org/wiki/2-satisfiability#/media/File:Implication_graph.svg)
   focal_point: Smart
+
+links:
+url_code: 'https://github.com/Manvi07/SATSolver'
 ---

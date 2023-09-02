@@ -13,4 +13,7 @@ external_link: https://github.com/rishi-s8/AlgorithmicDifferentiation-Spark
 image:
   caption: Credits [pennylane](https://pennylane.ai/qml/glossary/automatic_differentiation.html)
   focal_point: Smart
+
+links:
+url_code: 'https://github.com/rishi-s8/AlgorithmicDifferentiation-Spark'
 ---

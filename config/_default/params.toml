@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "manvigupta98@gmail.com"
+email = "f/xbjqpgow"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "B22, Gaurikund Hostel (North Campus)", city = "IIT Mandi", region = "Kamand", postcode = "175005", country = "India", country_code = "IN"}
+# address = {street = "", city = "IIT Mandi", region = "Kamand", postcode = "175005", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.7813", longitude = "76.9957"}
+# coordinates = {latitude = "31.7813", longitude = "76.9957"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -112,8 +112,8 @@ appointment_url = "https://calendly.com/manvi-07"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/manvigupta98"},
-#  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "manvigupta98@gmail.com"},
+  # {icon = "twitter", icon_pack = "fab", name = "", link = "https://twitter.com/manvigupta98"},
+  {icon = "envelope", icon_pack = "fa", name = "manvi-gupta@outlook.com", link = "mailto:manvi-gupta@outlook.com"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
    {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://t.me/manvigupta"},

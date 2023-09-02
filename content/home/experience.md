@@ -17,13 +17,50 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+title = "Software Development Engineer 2"
+company = "Adobe India Private Ltd."
+company_url = "https://www.adobe.com/"
+location = "Noida"
+date_start = "2023-02-01"
+date_end = ""
+description = "Working on building a job scheduler for large scale ML clusters."
+
+[[experience]]
+  title = "Software Development Engineer"
+  company = "Adobe India Private Ltd."
+  company_url = "https://www.adobe.com/"
+  location = "Noida"
+  date_start = "2021-07-20"
+  date_end = "2023-01-31"
+  description = "Worked on building Adobe's internal Machine Learning Training Platform."
+
+
+[[experience]]
+  title = "Undergraduate Teaching Assistant"
+  company = "Paradigms of Programming"
+  company_url = ""
+  location = "IIT Mandi"
+  date_start = "2021-02-18"
+  date_end = "2021-06-10"
+
+[[experience]]
+  title = "Engineering Manager"
+  company = "Furrble"
+  company_url = "https://www.furrble.com"
+  location = "Bangalore"
+  date_start = "2020-12-15"
+  date_end = "2020-12-31"
+  description = "Managed the technical team at Furrble in developing an Android app using Flutter & Go."  
+
 [[experience]]
   title = "Undergraduate Teaching Assistant"
   company = "Data Science III"
   company_url = ""
   location = "IIT Mandi"
   date_start = "2020-09-16"
-  date_end = ""
+  date_end = "2020-12-05"
 
 [[experience]]
   title = "Product Intern"
@@ -54,6 +91,6 @@ Received <b>Pre-Placement Offer</b> for the role of Member of Technical Staff.
   location = "IIT Mandi"
   date_start = "2019-08-01"
   date_end = "2020-08-01"
-#  description = """For """ 
+  description = "Set-up an official new community focusing on increasing women participation in technology and computer science."
 
 +++
