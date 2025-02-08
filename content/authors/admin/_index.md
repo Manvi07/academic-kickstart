@@ -64,13 +64,17 @@ social:
 ---
 I am a Software Engineer at <a href="https://www.adobe.com/" target="_blank">Adobe Systems India</a>. I am a part of the [Firefly & GenAI](http://firefly.adobe.com/) team.  I have completed my Bachelor in Technology (B.Tech.) in <i>Computer Science and Engineering</i> from the <a href = "http://iitmandi.ac.in/" target=_blank> Indian Institute of Technology (IIT) Mandi </a> with my winter-semester 2019-2020 from <a href="https://www.rwth-aachen.de/" target=_blank> RWTH Aachen University Germany </a>. <!-- , where I got a chance to indulge in Masters-level courses & research projects.-->
 
-At Adobe, we work on the in-house Machine Learning Platform, <a href="https://www.adobe.com/in/sensei.html" target=_blank> Sensei</a>. Here, we combine the power of Cloud Technology and the ease of use of a platform to make it easier for researchers to focus on their ML research. More challenges kick in when handling the huge scale of requests, varied resource requirements and optimisations.
+<!-- At Adobe, we work on the in-house Machine Learning Platform, <a href="https://www.adobe.com/in/sensei.html" target=_blank> Sensei</a>. Here, we combine the power of Cloud Technology and the ease of use of a platform to make it easier for researchers to focus on their ML research. More challenges kick in when handling the huge scale of requests, varied resource requirements and optimisations. -->
 
-In addition to Computer Science, I have a strong interest in Mathematics & Security. As a part of my B.Tech, I have worked on a wide range of projects ranging from Web Development to Deep Learning. My Bachelor Thesis was on, <i>"Why Deep Learning Works?"</i> with <a href="https://scholar.google.co.in/citations?user=qZkww5oAAAAJ&hl=en" target=_blank>Dr. Samar Agnihotri</a>. 
+At Adobe, I contribute to our in-house Machine Learning platform, combining cloud technology with user-friendly tools to streamline research training. Scaling infrastructure, optimizing resources, and handling massive ML workloads keep things exciting!
+
+Beyond Computer Science, I have a strong interest in Mathematics & Security. As a part of my B.Tech, I have worked on a wide range of projects ranging from Web Development to Deep Learning. My Bachelor Thesis was on, <i>"Why Deep Learning Works?"</i> with <a href="https://scholar.google.co.in/citations?user=qZkww5oAAAAJ&hl=en" target=_blank>Dr. Samar Agnihotri</a>. 
 
 [//]: # (This brought in a partial understanding to my ever-existing question on what makes Deep Learning so powerful.  )
 
-I think of myself as a hard-working and fun-loving person, who makes sure to stick to the timelines. I love travelling to new places. In my free time, I can be found enjoying nature, catching up with family and friends, or geeking out over science fiction. I have always been fascinated by the advancements shaping our future and believe that the only attitude that keeps one going is to never stop learning. Always happy to lend a hand (or a fun fact) whenever I can!
+<!-- I think of myself as a hard-working and fun-loving person, who makes sure to stick to the timelines. -->
+
+I’m a mix of hard work and fun - always on time, yet always up for an adventure. I love travelling to new places. In my free time, I can be found enjoying nature, catching up with family and friends, or geeking out over science fiction. I have always been fascinated by the advancements shaping our future and believe that the only attitude that keeps one going is to never stop learning. Always happy to lend a hand (or a fun fact) whenever I can!
 
 <!-- Currently, I am working with <a href="https://scholar.google.co.in/citations?user=qZkww5oAAAAJ&hl=en" target=_blank>Dr. Samar Agnihotri</a> on my final year Major Technical Project, which is on <b>"Why Deep Learning Works?"</b>.-->
 
