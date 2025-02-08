@@ -74,7 +74,7 @@ Beyond Computer Science, I have a strong interest in Mathematics & Security. As 
 
 <!-- I think of myself as a hard-working and fun-loving person, who makes sure to stick to the timelines. -->
 
-I’m a mix of hard work and fun - always on time, yet always up for an adventure. I love travelling to new places. In my free time, I can be found enjoying nature, catching up with family and friends, or geeking out over science fiction. I have always been fascinated by the advancements shaping our future and believe that the only attitude that keeps one going is to never stop learning. Always happy to lend a hand (or a fun fact) whenever I can!
+I’m a mix of hard work and fun -- always on time, yet always up for an adventure. I love travelling to new places. In my free time, I can be found enjoying nature, catching up with family and friends, or geeking out over science fiction. I have always been fascinated by the advancements shaping our future and believe that the only attitude that keeps one going is to never stop learning. Always happy to lend a hand (or a fun fact) whenever I can!
 
 <!-- Currently, I am working with <a href="https://scholar.google.co.in/citations?user=qZkww5oAAAAJ&hl=en" target=_blank>Dr. Samar Agnihotri</a> on my final year Major Technical Project, which is on <b>"Why Deep Learning Works?"</b>.-->
 
