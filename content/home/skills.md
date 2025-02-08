@@ -15,8 +15,8 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Programming"
-  description = "GoLang/C++/Java"
+  name = "Software Engineering"
+  description = "Scalability + Efficiency"
   
 [[feature]]
   icon = "equals"
@@ -28,7 +28,7 @@ subtitle = ""
   icon = "code-branch"
   icon_pack = "fas"
   name = "Cloud-Technology"
-  description = "Software"
+  description = "Product Design"
 
 # Uncomment to use emoji icons.
 # [[feature]]

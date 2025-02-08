@@ -19,13 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+title = "Computer Scientist 1"
+company = "Adobe India Private Ltd."
+company_url = "https://www.adobe.com/"
+location = "Noida"
+date_start = "2025-02-01"
+date_end = ""
+description = "Working on container snaphotting of ML Training jobs to optimise resource utilisation."
+
+[[experience]]
 title = "Software Development Engineer 2"
 company = "Adobe India Private Ltd."
 company_url = "https://www.adobe.com/"
 location = "Noida"
 date_start = "2023-02-01"
-date_end = ""
-description = "Working on building a job scheduler for large scale ML clusters."
+date_end = "2025-01-31"
+description = "Designed a job scheduler for large scale ML clusters, including distributed jobs."
 
 [[experience]]
   title = "Software Development Engineer"
